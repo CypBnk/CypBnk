@@ -18,7 +18,6 @@ Senior Security Architect at **Deutsche Telekom MMS** based in Berlin, Germany. 
 
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/marc-holl%C3%A4nder-279307152/) · [Xing](https://www.xing.com/profile/Marc_Hollaender)**
 
-- ⚡ Fun fact: **I have an Arctic Code Vault Contributor badge on GitHub — and I run a Pi-hole with a custom blocklist to keep my network clean.**
 
 ---
 
