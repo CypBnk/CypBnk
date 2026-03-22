@@ -152,14 +152,14 @@ A comprehensive collection of automation and utility scripts for Microsoft 365 a
 </p>
 
 <!--
-  🐍 Snake Animation — uncomment after running the generate-snake.yml GitHub Action:
+  🐍 Snake Animation — uncomment after running the generate-snake.yml GitHub Action:-->
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CypBnk/CypBnk/output/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CypBnk/CypBnk/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/CypBnk/CypBnk/output/github-contribution-grid-snake.svg" />
   </picture>
--->
+
 
 ---
 
