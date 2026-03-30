@@ -1,4 +1,4 @@
-# Hi there, I'm Marc Holländer 👋
+# Hi there, I'm Marc Holländer
 
 ## About Me
 
